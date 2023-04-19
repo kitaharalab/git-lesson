@@ -1,1 +1,1 @@
-output the value.
+数値を出力します。
